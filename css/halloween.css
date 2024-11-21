@@ -1,0 +1,42 @@
+/* Mise en forme de la page "halloween.html" */
+
+@font-face {
+	font-family: Halloween;
+	src: url("../img/halloween.otf");
+}
+
+html, body{
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	font-family: Arial;
+	overflow: hidden;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.tableau{
+	width: 100%;
+}
+
+.gauche{
+	/*A compléter*/
+}
+
+.droite{
+	/*A compléter*/
+}
+
+.icone{
+	/*A compléter*/
+}
+
+.titre{
+	/*A compléter*/
+}
+
+.histoire{
+	/*A compléter*/
+}
